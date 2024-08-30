@@ -1,0 +1,13 @@
+# Task Questions:
+
+1.  Write a query to find students in grades 9, 10, and 11.
+
+2. Find Students Not in 9th Grade and Older Than 15
+
+3. Find Students Aged 15 or in 11th Grade
+
+4. Find Students with Age Between 14 and 16
+
+5. Write a query to find students who have not provided an email address.
+
+6. Write a query to calculate the year of birth for each student (assuming the current year is 2024).
